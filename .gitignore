@@ -17,3 +17,4 @@
 
 # Unity Version Control (Plastic) metadata
 .plastic/
+mono_crash.*
